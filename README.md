@@ -2,9 +2,21 @@
 zeinab
 I explain my work here without you.
 I explain my work here that.
-main
-right now i am on my branch.git add
+I want to see you.
 
+
+the steps are 
+
+1. applying changes
+2. save changes
+3. staging
+4 commit
+5. git status
+6. git push
 ## This is a subheading
 
 print("Hello Zeinab")
+
+i need to change this again .
+i need to change this again and again.
+I do not know how to edit all of these.
